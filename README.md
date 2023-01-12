@@ -17,4 +17,4 @@ At Davinci I am following the course for **```software developer```.**\
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
 
 <br> I'd love to learn more programming languages in the future and become more efficient in the ones I'm currently using! ✨
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=JasperRutte.JasperRutte)
+<br>![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=JasperRutte.JasperRutte)
