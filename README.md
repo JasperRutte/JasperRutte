@@ -2,7 +2,7 @@
 
 **My name is Jasper Rutte and I am a starting software developer living in The Netherlands!**
 
-Currently I am following my vocational education at [ROC Davinci College](https://www.davinci.nl/opleidingen/mbo-opleidingen/opleidingen/software-developer-bol/) Dordrecht.
+Currently I am following my vocational education at [ROC Davinci College](https://www.davinci.nl/opleidingen/mbo-opleidingen/opleidingen/software-developer-bol/) Dordrecht # My asian origin makes the A+ very fitting
 
 At Davinci I am following the course for **```software developer```.**\
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JasperRutte&theme=vue)
