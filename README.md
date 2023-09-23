@@ -23,4 +23,4 @@ At Davinci I am following the course for **```software developer```.**\
 
  
 
-<br> I'd love to learn more programming languages in the future and become more efficient in the ones I'm currently using! ✨
+<br> I'd love to learn more programming languages in the future and become more proficient in the ones I'm currently using! ✨
