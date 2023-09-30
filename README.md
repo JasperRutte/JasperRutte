@@ -1,10 +1,10 @@
 ## Welcome to my small corner on GitHub! 👋
 
 **My name is Jasper Rutte and I am a starting software developer living in The Netherlands!**
+ 
+Currently I'm following my vocational education at [ROC Da Vinci College](https://www.davinci.nl/opleidingen/mbo-opleidingen/opleidingen/software-developer-bol/) Dordrecht.
 
-Currently I am following my vocational education at [ROC Davinci College](https://www.davinci.nl/opleidingen/mbo-opleidingen/opleidingen/software-developer-bol/) Dordrecht.
-
-At Davinci I am following the course for **```software developer```.**\
+At Da Vinci I am following the course for **```software developer```.**\
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JasperRutte&theme=vue)
 
 
