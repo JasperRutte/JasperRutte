@@ -7,7 +7,7 @@ I'm currently doing my Associates Degree at Avans University of Applied Sciences
 
 ### <br>🧰 Languages I'm currently working with: 
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="NextJS" width="40" height="40"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="NextJS" width="40" height="40"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40">
 
 
 ### <br>🔨 I have experience working with:
@@ -17,8 +17,8 @@ I'm currently doing my Associates Degree at Avans University of Applied Sciences
 
 
 
-### 📚 Current interests/things I want to get more familiar with:
-<img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" alt="ArchLinux" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" alt="DiscordJS" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="Rust" width="50" height="50">
+### 📚 Current interests/things I want to get  familiar with:
+<img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" alt="ArchLinux" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" alt="DiscordJS" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="Rust" width="50" height="50">
 
 
 
