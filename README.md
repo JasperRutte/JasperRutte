@@ -1,6 +1,6 @@
 ## Welcome to my small corner on GitHub! 👋
 
-**My name is Jasper Rutte and I am a starting engineer living in The Netherlands!**
+**My name is Jasper Rutte, a 21-year-old software engineer living in The Netherlands!**
 
 I'm a software engineer for Wididi and I'm also doing my Associates Degree at Avans University of Applied Sciences.
 
